@@ -32,7 +32,7 @@ pip install pygame
 1. Make sure all dependencies are installed.
 2. Run the script:
    ```sh
-   python "snake game.py"
+   python "snake_game.py"
    ```
 3. Use the following controls:
    - **W / Up Arrow**: Move Up ⬆️
